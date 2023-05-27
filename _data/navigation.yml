@@ -9,7 +9,11 @@ main:
   - title: "Member"
     url: /year-archive/
   - title: "Publication"
-    url: /year-archive/
+  children:
+    - title: "Test"
+      url: /year-archive/
+    - title: "Test2"
+      url: /year-archive/
   - title: "Lab Work"
     url: /year-archive/    
   - title: "Lecture"
