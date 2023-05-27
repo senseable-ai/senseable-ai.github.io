@@ -16,38 +16,38 @@
 #     url: /year-archive/
 side-bar:
   - title: "News"
-    url: news/
+    url: "/news/"
   - title: "Research"
-    url: research/
+    url: "/research/"
   - title: "Member"
-    url: member/
+    url: "/member/"
   - title: "Publication"
   children:
     - title: "International journal"
-      url: int_jour/
+      url: "/int_jour/"
     - title: "International conference"
-      url: int_conf/
+      url: "/int_conf/"
     - title: "Domestic journal"
-      url: dom_jour/
+      url: "/dom_jour/"
     - title: "Domestic conference"
-      url: dom_conf/
+      url: "/dom_conf/"
     - title: "Patent"
-      url: patent/
+      url: "/patent/"
   - title: "Lab work"
-    url: lab/
+    url: "/lab/"
   - title: "Lecture"
   children:
     - title: "Java programming"
-      url: java/
+      url: "/java/"
     - title: "Python"
-      url: python/
+      url: "/python/"
     - title: "Data structure"
-      url: ds/
+      url: "/ds/"
     - title: "Algorithm"
-      url: algo/
+      url: "/algo/"
     - title: "CVPR"
-      url: cvpr/
+      url: "/cvpr/"
     - title: "NLP"
-      url: nlp/
+      url: "/nlp/"
     - title: "Advanced deep learning"
-      url: adv_dl/
+      url: "/adv_dl/"
