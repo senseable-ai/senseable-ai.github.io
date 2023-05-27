@@ -14,7 +14,7 @@
 #     url: /year-archive/    
 #   - title: "Lecture"
 #     url: /year-archive/
-docs:
+side-bar:
   - title: Database
     children:
       - title: "Oracle"
