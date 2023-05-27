@@ -39,7 +39,7 @@ side-bar:
     url: "/lab/"       
   - title: "Lecture"
     url: "/lecture/"
-    children::
+    children:
     - title: "Java programming"
       url: "/java/"
     - title: "Python"
