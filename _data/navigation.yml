@@ -1,16 +1,41 @@
 # main links
-main:
-  - title: "About SAIL"
-    url: https://senseable-ai.github.io/about/
-  - title: "News"
-    url: /year-archive/
-  - title: "Research"
-    url: /year-archive/
-  - title: "Member"
-    url: /year-archive/
-  - title: "Publication"
-    url: /year-archive/
-  - title: "Lab Work"
-    url: /year-archive/    
-  - title: "Lecture"
-    url: /year-archive/
+# main:
+#   - title: "About SAIL"
+#     url: https://senseable-ai.github.io/about/
+#   - title: "News"
+#     url: /year-archive/
+#   - title: "Research"
+#     url: /year-archive/
+#   - title: "Member"
+#     url: /year-archive/
+#   - title: "Publication"
+#     url: /year-archive/
+#   - title: "Lab Work"
+#     url: /year-archive/    
+#   - title: "Lecture"
+#     url: /year-archive/
+docs:
+  - title: Database
+    children:
+      - title: "Oracle"
+        url: oracle/
+        category: "oracle"
+      - title: "MS-SQL"
+        url: mssql/
+        category: "mssql"
+      - title: "MariaDB"
+        url: mariadb/
+        category: "mariadb"
+  - title: Server
+    children:
+      - title: "Ubuntu"
+        url: ubuntu/
+        category: "ubuntu"
+      - title: "Windows Server"
+        url: windows-server/
+        category: "windows-server"
+  - title: Etc
+    children:
+      - title: "Jekyll"
+        url: jekyll/
+        category: "jekyll"
