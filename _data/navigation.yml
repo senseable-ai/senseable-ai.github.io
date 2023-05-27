@@ -15,21 +15,39 @@
 #   - title: "Lecture"
 #     url: /year-archive/
 side-bar:
-  - title: Database
-    children:
-      - title: "Oracle"
-        url: oracle/
-      - title: "MS-SQL"
-        url: mssql/
-      - title: "MariaDB"
-        url: mariadb/
-  - title: Server
-    children:
-      - title: "Ubuntu"
-        url: ubuntu/
-      - title: "Windows Server"
-        url: windows-server/
-  - title: Etc
-    children:
-      - title: "Jekyll"
-        url: jekyll/
+  - title: News
+    url: news/
+  - title: Research
+    url: research/
+  - title: Member
+    url: member/
+  - title: Publication
+  children:
+    - title: International journal
+      url: int_jour/
+    - title: International conference
+      url: int_conf/
+    - title: Domestic journal
+      url: dom_jour/
+    - title: Domestic conference
+      url: dom_conf/
+    - title: Patent
+      url: patent/
+  - title: Lab work
+    url: lab/
+  - title: Lecture
+  children:
+    - title: Java programming
+      url: java/
+    - title: Python
+      url: python/
+    - title: Data structure
+      url: ds/
+    - title: Algorithm
+      url: algo/
+    - title: CVPR
+      url: cvpr/
+    - title: NLP
+      url: nlp/
+    - title: Advanced deep learning
+      url: adv_dl/
