@@ -9,13 +9,16 @@ main:
   - title: "Member"
     url: /year-archive/
   - title: "Publication"
-  children:
-    - title: "Test"
-      url: /year-archive/
-    - title: "Test2"
-      url: /year-archive/
+    url: /year-archive/
   - title: "Lab Work"
     url: /year-archive/    
   - title: "Lecture"
     url: /year-archive/
   
+docs:
+  - title: "Publication"
+  children:
+    - title: "Test"
+      url: /year-archive/
+    - title: "Test2"
+      url: /year-archive/
