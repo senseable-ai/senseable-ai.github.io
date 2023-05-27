@@ -18,17 +18,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Senseable AI Lab"
 title_separator          : "-"
-subtitle                 : SAIL in SCH Media Lab
-name                     : "Senseable AI lab"
-description              : "Welcome to Senseable AI Lab. 'Senseable' is derived from the fusion of the words 'sensible' and '-able', which embodies our focus on research and development of technologies or systems that rely on sensor data and information, such as vision, audio, text, and more. Our lab is interested not only in developing AI algorithms but also in using advanced data analytics techniques to gain insights. Furthermore, our focus on big data analytics enables organizations to identify patterns, trends, and other insights that can inform decision-making and improve overall performance. We aim to create innovative solutions or products that deal with the intersections of technology, data, and the human senses.In particular, our lab is dedicated to exploring the opportunities and challenges of sensing and analyzing urban and mobility environments. We use this information to improve the way we live, work, and move in cities. Our lab focuses on topics such as mobility, energy, environment, and social behavior, and we aim to find innovative solutions that contribute to sustainable and livable cities.
-
-
-  We are actively seeking talented individuals to join our team, including post-doctoral, master's, and Ph.D. students, as well as undergraduate interns. We welcome inquiries from individuals interested in advancing their skills and contributing to our research. Please feel free to contact Professor Noh (senseable.ai@gmail.com) for more information."
+subtitle                 : SAIL
+name                     : "Senseable AI Lab"
+description              : "Senseable AI Lab in Soonchunhyang University"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "assets/images/logo.PNG"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -109,13 +106,13 @@ analytics:
 author:
   name             : "Senseable AI Lab"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : ""
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:senseable.ai@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
