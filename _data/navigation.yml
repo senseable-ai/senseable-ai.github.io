@@ -14,11 +14,3 @@ main:
     url: /year-archive/    
   - title: "Lecture"
     url: /year-archive/
-  
-docs:
-  - title: "Publication"
-  children:
-    - title: "Test"
-      url: /year-archive/
-    - title: "Test2"
-      url: /year-archive/
