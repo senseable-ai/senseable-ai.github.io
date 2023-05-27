@@ -1,19 +1,7 @@
 # main links
-# main:
-#   - title: "About SAIL"
-#     url: https://senseable-ai.github.io/about/
-#   - title: "News"
-#     url: /year-archive/
-#   - title: "Research"
-#     url: /year-archive/
-#   - title: "Member"
-#     url: /year-archive/
-#   - title: "Publication"
-#     url: /year-archive/
-#   - title: "Lab Work"
-#     url: /year-archive/    
-#   - title: "Lecture"
-#     url: /year-archive/
+main:
+  - title: "About SAIL"
+    url: https://senseable-ai.github.io/about/
 side-bar:
   - title: "News"
     url: "/news/"
