@@ -297,6 +297,6 @@ defaults:
       sidebar:
         nav: side-bar
       read_time: true
-      comments: # true
+      comments: false
       share: true
       related: true
