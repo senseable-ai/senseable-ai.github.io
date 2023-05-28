@@ -7,8 +7,8 @@ layout: single
 
 | <img src="../assets/images/member/bj.jpg" alt="Byeonghuun Kim" width="300">  | 
 | -------- |
-| **Byeonghun Kim** |
-| Research area: TBD   | 
+| **Byeongjoon Noh** |
+| Research area: Mobility safety, AI application, Computer vision, AI platform  | 
 | Office: ML311   | 
 | Contact: powernoh@sch.ac.kr | 
   
@@ -16,7 +16,7 @@ layout: single
 
 ## Master's students  
   
-| <img src="../assets/images/member/bh.jpg" alt="Byeonghuun Kim" width="200">  | 
+| <img src="../assets/images/member/bh.jpg" alt="Byeonghuun Kim" width="300">  | 
 | -------- |
 | **Byeonghun Kim** |
 | Research area: TBD   | 
@@ -24,19 +24,19 @@ layout: single
 
 ## Interns  
   
-| <img src="../assets/images/member/no_image.png" alt="no_image" width="200"> | | <img src="../assets/images/member/no_image.png" alt="no_image" width="200">|
+| <img src="../assets/images/member/no_image.png" alt="no_image" width="300"> | | <img src="../assets/images/member/no_image.png" alt="no_image" width="300">|
 | -------- | -------- | -------- |
 |**Hyunsik Min**| |**Jubin Jin** |
 | Research area: TBD  | | Research area: TBD    |
 | Contact:   | | Contact:    |  
 
-| <img src="../assets/images/member/no_image.png" alt="no_image" width="200"> | | <img src="../assets/images/member/no_image.png" alt="no_image" width="200">|
+| <img src="../assets/images/member/no_image.png" alt="no_image" width="300"> | | <img src="../assets/images/member/no_image.png" alt="no_image" width="300">|
 | -------- | -------- | -------- |
 | Youngseo Cho | | Jaekyun Lim |
 | Research area: TBD  | | Research area: TBD    | 
 | Contact:   | | Contact:    | 
     
-| <img src="../assets/images/member/no_image.png" alt="no_image" width="200"> |
+| <img src="../assets/images/member/no_image.png" alt="no_image" width="300"> |
 | -------- |
 | Sunghoon Kim |
 | Research area: TBD   |
