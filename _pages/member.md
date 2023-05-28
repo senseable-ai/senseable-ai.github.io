@@ -28,16 +28,16 @@ layout: single
 | -------- | -------- | -------- |
 |**Hyunsik Min**| |**Jubin Jin** |
 | Research area: TBD  | | Research area: TBD    |
-| Contact:   | | Contact:    |  
+| Contact: minun001@gmail.com | | Contact: jinjb0821@gmail.com   |  
 
 | <img src="../assets/images/member/no_img.png" alt="no_img" width="300"> | | <img src="../assets/images/member/no_img.png" alt="no_img" width="300">|
 | -------- | -------- | -------- |
 | Youngseo Cho | | Jaekyun Lim |
 | Research area: TBD  | | Research area: TBD    | 
-| Contact:   | | Contact:    | 
+| Contact: pamdajr@gmail.com | | Contact: Imij0522@gmail.com | 
     
 | <img src="../assets/images/member/no_img.png" alt="no_img" width="300"> |
 | -------- |
 | Sunghoon Kim |
 | Research area: TBD   |
-| Contact:    |
+| Contact: rlatjdgns0816@gmail.com |
