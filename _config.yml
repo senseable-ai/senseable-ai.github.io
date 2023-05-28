@@ -20,8 +20,8 @@ title                    : "Senseable AI Lab"
 title_separator          : "-"
 subtitle                 : SAIL
 name                     : "Senseable AI Lab"
-description              : "Senseable AI Lab in Soonchunhyang University"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Senseable AI Lab at Dept. of AI and Bigdata, Soonchunhyang University"
+url                      : "https://senseable-ai.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -73,7 +73,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : <meta name="google-site-verification" content="tP62lvYio2t_zAzKnN7d8XfKeOraFHpa4QZajH64iZQ" />
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
@@ -98,7 +98,7 @@ social:
 analytics:
   provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : 
     anonymize_ip         : # true, false (default)
 
 
