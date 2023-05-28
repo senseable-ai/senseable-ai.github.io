@@ -27,19 +27,19 @@ layout: single
 
 ## Interns  
   
-| <img src="../assets/images/member/no_image.png" alt="no_image" width="300"> | | <img src="../assets/images/member/no_image.png" alt="no_image" width="300">|
+| <img src="../assets/images/member/no_img.png" alt="no_img" width="300"> | | <img src="../assets/images/member/no_img.png" alt="no_img" width="300">|
 | -------- | -------- | -------- |
 |**Hyunsik Min**| |**Jubin Jin** |
 | Research area: TBD  | | Research area: TBD    |
 | Contact:   | | Contact:    |  
 
-| <img src="../assets/images/member/no_image.png" alt="no_image" width="300"> | | <img src="../assets/images/member/no_image.png" alt="no_image" width="300">|
+| <img src="../assets/images/member/no_img.png" alt="no_img" width="300"> | | <img src="../assets/images/member/no_img.png" alt="no_img" width="300">|
 | -------- | -------- | -------- |
 | Youngseo Cho | | Jaekyun Lim |
 | Research area: TBD  | | Research area: TBD    | 
 | Contact:   | | Contact:    | 
     
-| <img src="../assets/images/member/no_image.png" alt="no_image" width="300"> |
+| <img src="../assets/images/member/no_img.png" alt="no_img" width="300"> |
 | -------- |
 | Sunghoon Kim |
 | Research area: TBD   |
