@@ -23,12 +23,3 @@ side-bar:
       url: "/publication/dom_jour/"
     - title: "Domestic conference"
       url: "/publication/dom_conf/"
-  - title: "Lecture"
-    url: "/lecture/algo"
-    chldren:
-    - title: "Algorithm"
-      url: "/lecture/algo/"
-    - title: "Data structure"
-      url: "/lecture/ds/"
-    - title: "Computer vision and pattern recognition"
-      url: "/lecture/cvpr/"
