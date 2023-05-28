@@ -3,7 +3,7 @@ main:
   - title: "About SAIL"
     url: https://senseable-ai.github.io/about/
   - title: "Publication"
-    url: "/publication/int_jour/"
+    # url: "/publication/int_jour/"
     dropdown:
     - title: "International journal"
       url: "/publication/int_jour/"
