@@ -24,6 +24,7 @@ side-bar:
     - title: "Domestic conference"
       url: "/publication/dom_conf/"
   - title: "Lecture"
+    url: "/lecture/"
     chldren:
     - title: "Algorithm"
       url: "/lecture/algo/"
