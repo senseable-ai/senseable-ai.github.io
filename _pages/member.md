@@ -19,11 +19,11 @@ layout: single
   
 | <img src="../assets/images/member/no_image.png" alt="no_image" width="200"> | | <img src="../assets/images/member/no_image.png" alt="no_image" width="200">|
 | -------- | -------- | -------- |
-|**Hyunsik Min**| **Jubin Jin** ||
+|**Hyunsik Min**| |**Jubin Jin** |
 | Research area: TBD  | | Research area: TBD    |
 | Contact:   | | Contact:    |  
 
-| <img src="../assets/images/member/no_image.png" alt="no_image" width="200"> |  <img src="../assets/images/member/no_image.png" alt="no_image" width="200">|
+| <img src="../assets/images/member/no_image.png" alt="no_image" width="200"> | | <img src="../assets/images/member/no_image.png" alt="no_image" width="200">|
 | -------- | -------- | -------- |
 | Youngseo Cho | | Jaekyun Lim |
 | Research area: TBD  | | Research area: TBD    | 
