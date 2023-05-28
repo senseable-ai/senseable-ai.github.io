@@ -73,7 +73,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : <meta name="google-site-verification" content="tP62lvYio2t_zAzKnN7d8XfKeOraFHpa4QZajH64iZQ" />
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
@@ -279,13 +279,14 @@ compress_html:
 
 # Defaults
 defaults:
-  # _docs
+  # default
   - scope:
       path: ""
-      type: docs
     values:
+      layout: home
+      author_profile: true
       sidebar:
-        nav: "side-bar"
+        nav: side-bar
   # _posts
   - scope:
       path: ""
@@ -293,8 +294,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      sidebar: 
-        nav: "side-bar"
+      sidebar:
+        nav: side-bar
       read_time: true
       comments: # true
       share: true
