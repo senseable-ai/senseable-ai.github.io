@@ -4,7 +4,7 @@ permalink: /publication/int_conf/
 layout: single
 ---
 
-- Zhixiong Jin, **Byeongjoon Noh**, Haechan Cho, and Hwasoo Yeo\*, "Deep Learning-based Approach on Risk Estimation of Urban Traffic Accident,* *The 25th IEEE International Conference on Intelligent Transportation Systems (ITSC)* [Download PDF](/assets/papers/int_conf/2022_itsc1.pdf)  
+- Zhixiong Jin, **Byeongjoon Noh**, Haechan Cho, and Hwasoo Yeo\*, "Deep Learning-based Approach on Risk Estimation of Urban Traffic Accident, *The 25th IEEE International Conference on Intelligent Transportation Systems (ITSC)* [Download PDF](/assets/papers/int_conf/2022_itsc1.pdf)  
 
 - Jiyoung Hwang, **Byeongjoon Noh**, Zhixiong Jin, and Hwasoo Yeo\*, "Asymmetric Long-Term Graph Multi-Attention Network for Traffic Speed Prediction." *The 25th IEEE International Conference on Intelligent Transportation Systems (ITSC)* [Download PDF](/assets/papers/int_conf/2022_itsc2.pdf)  
 
