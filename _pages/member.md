@@ -5,7 +5,7 @@ layout: single
 ---
 ## Professor    
 
-|<p align="center"> <img src="../assets/images/member/bj.jpg" alt="Byeongjoon Noh" width="300"> </p>|
+| <div align="center"> <img src="../assets/images/member/bj.jpg" alt="Byeongjoon Noh" width="300"> </div> |
 | -------- |
 | **Byeongjoon Noh, Ph.D.** |
 | Research area: Mobility safety, computer vision, AI application, AI platform |
@@ -16,7 +16,7 @@ layout: single
 
 ## Master's students    
 
-|<p align="center"> <img src="../assets/images/member/bh.jpg" alt="Byeonghuun Kim" width="300"> </p>|
+| <img src="../assets/images/member/bh.jpg" alt="Byeonghuun Kim" width="300"> |
 | -------- |
 | **Byeonghun Kim** |
 | Research area: TBD   | 
