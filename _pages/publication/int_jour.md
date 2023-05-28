@@ -10,7 +10,7 @@ layout: single
 
 - Wonjun No, David Lee, **Byeongjoon Noh**, and Youngchul Kim\*, "How do crosswalk delays affect walking access in land use areas? Walking access reduction by signalized crosswalks in Seoul, South Korea.", *Applied Geography 156 (2023): 102975*. **Q1**, IF=4.732 [Download PDF](/assets/papers/int_jour/2023_applied_geo.pdf)
 
-- **Byeongjoon Noh**, Hansaem Park, Sungju Lee, and Seunghee Nam\*, "Vision-based pedestrian's crossing risky behavior extraction and analysis for intelligent traffic safety system." *Sensors 22(9)*. IF=3.847 [Download PDF](/assets/papers/2022_sensors.pdf)
+- **Byeongjoon Noh**, Hansaem Park, Sungju Lee, and Seunghee Nam\*, "Vision-based pedestrian's crossing risky behavior extraction and analysis for intelligent traffic safety system." *Sensors 22(9)*. IF=3.847 [Download PDF](/assets/papers/int_jour/2022_sensors.pdf)
 
 - Donghwa Shon, **Byeongjoon Noh**, and Nahyang Byun\*, "Identifying and extracting method of exterior building information on 3D map." *Buildings 12(4), 2022*. **Q0**, IF=3.324 [Download PDF](/assets/papers/int_jour/2022_building.pdf)
 
