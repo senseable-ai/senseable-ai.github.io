@@ -5,7 +5,7 @@ layout: single
 ---
 ## Professor    
 
-| <div align="center"> <img src="../assets/images/member/bj.jpg" alt="Byeongjoon Noh" width="300"> </div> |
+| <img src="../assets/images/member/bj.jpg" alt="Byeongjoon Noh" align="middle" width="300"> |
 | -------- |
 | **Byeongjoon Noh, Ph.D.** |
 | Research area: Mobility safety, computer vision, AI application, AI platform |
