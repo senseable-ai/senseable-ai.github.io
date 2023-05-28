@@ -3,14 +3,27 @@ title: Senseable AI Lab
 permalink: /about/
 layout: single
 ---
+<h1> Welcome to Senseable AI Lab.</h1>
+"Senseable" is derived from the fusion of the words "sensible" and "-able", 
+which embodies our focus on research and development of technologies or systems that rely on sensor data and information, such as vision, audio, text, and more.
+<br>
+Our lab not only focuses on AI algorithms but also utilizes advanced data analytics techniques to extract valuable insights.
+<br>
+Through big data analytics, we enable organizations to identify patterns, trends, and other meaningful information for informed decision-making and enhanced performance.
+<br>
+Our primary objective is to create innovative solutions and products that intersect technology, data, and human senses.
+<br>
 
-   Welcome to Senseable AI Lab. "Senseable" is derived from the fusion of the words "sensible" and "-able", which embodies our focus on research and development of technologies or systems that rely on sensor data and information, such as vision, audio, text, and more. Our lab is interested not only in developing AI algorithms but also in using advanced data analytics techniques to gain insights. Furthermore, our focus on big data analytics enables organizations to identify patterns, trends, and other insights that can inform decision-making and improve overall performance. We aim to create innovative solutions or products that deal with the intersections of technology, data, and the human senses.In particular, our lab is dedicated to exploring the opportunities and challenges of sensing and analyzing urban and mobility environments. We use this information to improve the way we live, work, and move in cities. Our lab focuses on topics such as mobility, energy, environment, and social behavior, and we aim to find innovative solutions that contribute to sustainable and livable cities.
-
-
-  We are actively seeking talented individuals to join our team, including post-doctoral, master's, and Ph.D. students, as well as undergraduate interns. We welcome inquiries from individuals interested in advancing their skills and contributing to our research. Please feel free to contact Professor Noh (senseable.ai@gmail.com) for more information.
-
-
-석사/박사/석박통합과정/학부연구생 진학을 희망하는 학생은 연락주세요 (E-mail: senseable.ai@gmail.com)
+Specifically, our lab is dedicated to exploring the opportunities and challenges presented by sensing and analyzing urban and mobility environments.
+<br>
+By leveraging this knowledge, we aim to improve the quality of life, work, and transportation within cities. 
+<br>
+Our research areas encompass mobility, energy, environment, and social behavior, with the ultimate goal of developing innovative solutions that contribute to sustainable and livable cities.
+<br>
+  
+We actively encourage talented individuals to join our team, including post-doctoral, master's, and Ph.D. students, as well as undergraduate interns. If you are interested in advancing your skills and making contributions to our research, we invite you to contact Professor Noh at senseable.ai@gmail.com for further information.
+<br>
+학부연구생 및 석사/박사과정 진학을 희망하는 학생은 연락주세요 (E-mail: senseable.ai@gmail.com)
 
 
 
