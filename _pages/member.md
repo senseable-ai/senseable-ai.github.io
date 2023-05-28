@@ -7,7 +7,7 @@ layout: single
 
 |<img src="../assets/images/member/bj.jpg" alt="Byeongjoon Noh" align="middle" width="300"> | 
 | :--------: |
-|**Byeongjoon Noh, Ph.D.** |
+|**Byeongjoon Noh, Ph.D.** ([Google Scholoar](https://scholar.google.co.kr/citations?user=0mPWzzIAAAAJ&hl=en)) |
 | Research area: Mobility safety, computer vision, AI application, AI platform |
 | Office: ML311   | 
 | Contact: powernoh@sch.ac.kr | 
