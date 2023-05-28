@@ -5,9 +5,6 @@ layout: single
 ---
 ## Professor    
 
-
-
-
 |<img src="../assets/images/member/bj.jpg" alt="Byeongjoon Noh" align="middle" width="300"> | 
 | :--------: |
 |**Byeongjoon Noh, Ph.D.** |
