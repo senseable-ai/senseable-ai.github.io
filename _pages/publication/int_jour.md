@@ -4,9 +4,9 @@ permalink: /publication/int_jour/
 layout: single
 ---
 
-- <span style="color:blue;">[Under review]</span> Haechan Cho, Zhixiong Jin, Hwasoo Yeo, and **Byeongjoon Noh\***, “TSaferNet: Predicting risk severity of urban traffic accidents and identifying risk sources using mobilitydata and road geometry", *Accident Analysis and Prevention 165 (2022):106539*. <span style="color:red;">**Q0**, **IF=6.376**</span>
+- <span style="color:green;">[Under review]</span> Haechan Cho, Zhixiong Jin, Hwasoo Yeo, and **Byeongjoon Noh\***, “TSaferNet: Predicting risk severity of urban traffic accidents and identifying risk sources using mobilitydata and road geometry", *Accident Analysis and Prevention 165 (2022):106539*. <span style="color:red;">**Q0**, **IF=6.376**</span>
 
-- <span style="color:blue;">[Under review]</span> **Byeongjoon Noh**, Wonjun No, Zhixiong Jin, and Hwasoo Yeo\*, “Is the policy to strengthen punishment in school zone effective?: Focusing on analyzing behaviors of driver and pedestrian before and after the law is applied,” *Transportation Research Part A: Policy and Practice* **Q1**, **IF=5.594**
+- <span style="color:green;">[Under review]</span> **Byeongjoon Noh**, Wonjun No, Zhixiong Jin, and Hwasoo Yeo\*, “Is the policy to strengthen punishment in school zone effective?: Focusing on analyzing behaviors of driver and pedestrian before and after the law is applied,” *Transportation Research Part A: Policy and Practice* **Q1**, **IF=5.594**
 
 - Wonjun No, David Lee, **Byeongjoon Noh**, and Youngchul Kim\*, "How do crosswalk delays affect walking access in land use areas? Walking access reduction by signalized crosswalks in Seoul, South Korea.", *Applied Geography 156 (2023): 102975*. **Q1**, IF=4.732 [Download PDF](/assets/papers/int_jour/2023_applied_geo.pdf)
 
