@@ -7,3 +7,12 @@ author_profile: true
 which embodies our focus on research and development of technologies or systems that rely on sensor data and information, such as vision, audio, text, and more. 
 <br>
 <a href="/about/">More about Senseable AI Lab </a>
+
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
