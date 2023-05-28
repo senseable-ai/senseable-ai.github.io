@@ -8,7 +8,7 @@ layout: single
 # Ph.D. strudent
 
 # Masters students
-| Byeonghun Kim | Header 2 |
+| ![Image](/assets/member/bh.jpg) Byeonghun Kim | Header 2 |
 | -------- | -------- |
 | Research area: TBD   | Cell 2   | 
 | Contact: byeonghuns98@gmail.com   | Cell 5   | 
