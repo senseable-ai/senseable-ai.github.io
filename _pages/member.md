@@ -9,7 +9,7 @@ layout: single
 
 ## Masters students  
   
-| ![Image](../assets/member/bh.jpg)  Byeonghun Kim |  |
+| ![Image](../assets/images/member/bh.jpg)  Byeonghun Kim |  |
 | -------- | -------- |
 | Research area: TBD   |   | 
 | Contact: byeonghuns98@gmail.com   |  | 
