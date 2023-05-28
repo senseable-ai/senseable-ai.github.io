@@ -5,12 +5,13 @@ layout: single
 ---
 ## Professor    
 
-| <img src="../assets/images/member/bj.jpg" alt="Byeonghuun Kim" width="200">  | 
+| <img src="../assets/images/member/bj.jpg" alt="Byeonghuun Kim" width="300">  | 
 | -------- |
 | **Byeonghun Kim** |
 | Research area: TBD   | 
-| Contact: byeonghuns98@gmail.com   |  
-
+| Office: ML311   | 
+| Contact: powernoh@sch.ac.kr | 
+  
 ## Ph.D. strudent
 
 ## Master's students  
