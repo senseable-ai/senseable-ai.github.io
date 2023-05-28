@@ -8,7 +8,9 @@ side-bar:
   - title: "Research"
     url: "/research/"
   - title: "Member"
-    url: "/member/"    
+    url: "/member/"        
+  - title: "Lab work"
+    url: "/lab/"       
   - title: "Publication"
     url: "/publication/int_jour/"
     children:
@@ -22,9 +24,6 @@ side-bar:
       url: "/publication/dom_conf/"
     - title: "Patent"
       url: "/publication/patent/"
-
-  - title: "Lab work"
-    url: "/lab/"       
   - title: "Lecture"
     url: "/lecture/"
     children:
