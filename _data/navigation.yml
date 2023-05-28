@@ -1,7 +1,37 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About SAIL"
+    url: /about/
+    
+side-bar:
+  - title: "News"
+    url: /news/
+  - title: "Research"
+    url: /research/
+  - title: "Member"
+    url: /member/
+  - title: "Lab work"
+    url: /lab/
+  - title: "Publication"
+    url: /int_jour/
+    children:
+    - title: "International journal"
+      url: /int_jour/
+    - title: "International conference"
+      url: /int_conf/
+    - title: "Domestic journal"
+      url: /dom_jour/
+    - title: "Domestic conference"
+      url: /dom_conf/
+  - title: "Lecture"
+    url: /lecture/
+    chldren:
+    - title: "Algorithm"
+      url: /algo/
+    - title: "Data structure"
+      url: /ds/
+    
+    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
