@@ -296,16 +296,3 @@ defaults:
       author_profile: true
       sidebar:
         nav: side-bar
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      sidebar:
-        nav: side-bar
-      read_time: true
-      comments: # true
-      share: true
-      related: true
