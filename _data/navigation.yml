@@ -5,37 +5,27 @@ main:
     
 side-bar:
   - title: "News"
-    url: /news/
+    url: "/news/"
   - title: "Research"
-    url: /research/
+    url: "/research/"
   - title: "Member"
-    url: /member/
+    url: "/member/"
   - title: "Lab work"
-    url: /lab/
+    url: "/lab/"
   - title: "Publication"
-    url: /publication/int_jour/
+    url: "/publication/int_jour/"
     children:
     - title: "International journal"
-      url: /publication/int_jour/
+      url: "/publication/int_jour/"
     - title: "International conference"
-      url: /publication/int_conf/
+      url: "/publication/int_conf/"
     - title: "Domestic journal"
-      url: /publication/dom_jour/
+      url: "/publication/dom_jour/"
     - title: "Domestic conference"
-      url: /publication/dom_conf/
+      url: "/publication/dom_conf/"
   - title: "Lecture"
     chldren:
     - title: "Algorithm"
-      url: /lecture/algo/
+      url: "/lecture/algo/"
     - title: "Data structure"
-      url: /lecture/ds/
-    
-    
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+      url: "/lecture/ds/"
