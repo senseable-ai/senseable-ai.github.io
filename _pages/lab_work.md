@@ -1,6 +1,6 @@
 ---
 title: Senseable AI Lab
-permalink: /
+permalink: /lab/
 layout: single
 ---
 
