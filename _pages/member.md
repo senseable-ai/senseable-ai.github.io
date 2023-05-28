@@ -18,6 +18,7 @@ layout: single
 ## Master's students    
 
 <img src="../assets/images/member/bh.jpg" alt="Byeonghuun Kim" width="300">  
+  
 | **Byeonghun Kim** |
 | -------- |
 | Research area: TBD   | 
