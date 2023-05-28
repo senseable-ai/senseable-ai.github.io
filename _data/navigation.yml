@@ -2,6 +2,19 @@
 main:
   - title: "About SAIL"
     url: https://senseable-ai.github.io/about/
+  - title: "Publication"
+    url: "/publication/int_jour/"
+    dropdown:
+    - title: "International journal"
+      url: "/publication/int_jour/"
+    - title: "International conference"
+      url: "/publication/int_conf/"
+    - title: "Domestic journal"
+      url: "/publication/dom_jour/"
+    - title: "Domestic conference"
+      url: "/publication/dom_conf/"
+    - title: "Patent"
+      url: "/publication/patent/"
 side-bar:
   - title: "News"
     url: "/news/"
