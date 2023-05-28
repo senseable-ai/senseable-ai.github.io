@@ -3,9 +3,9 @@ title: Member
 permalink: /member/
 layout: single
 ---
-## Professor
-| <img src="../assets/images/member/bj.jpg" alt="Byeongjoon Noh" width="200">  |   
-| -------- |  
+## Professor  
+| <img src="../assets/images/member/bj.jpg" alt="Byeonjoon Noh" width="200">  | 
+| -------- |
 | **Byeongjoon Noh** |  
 | Research area: Mobility safety, Autonomous vehicle, AI application, Computer vision |   
 | Office: ML311 |   
