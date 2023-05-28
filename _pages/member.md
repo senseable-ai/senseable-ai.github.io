@@ -3,18 +3,18 @@ title: Member
 permalink: /member/
 layout: single
 ---
-# Professor
+## Professor
 
-# Ph.D. strudent
+## Ph.D. strudent
 
-# Masters students  
+## Masters students  
   
-| ![Image](/assets/member/bh.jpg) Byeonghun Kim |  |
+| ![Image](../assets/member/bh.jpg)  Byeonghun Kim |  |
 | -------- | -------- |
 | Research area: TBD   |   | 
 | Contact: byeonghuns98@gmail.com   |  | 
 
-# Interns  
+## Interns  
   
 | Hyunsik Min | Jubin Jin |
 | -------- | -------- |
