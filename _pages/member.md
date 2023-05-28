@@ -4,18 +4,17 @@ permalink: /member/
 layout: single
 ---
 ## Professor    
-
 | <img src="../assets/images/member/bj.jpg" alt="Byeonghuun Kim" width="300">  | 
 | -------- |
-| **Byeongjoon Noh** |
-| Research area: Mobility safety, AI application, Computer vision, AI platform  | 
+| **Byeongjoon Noh, Ph.D.** |
+| Research area: Mobility safety,   |
+| AI application, Computer vision, AI platform |
 | Office: ML311   | 
 | Contact: powernoh@sch.ac.kr | 
   
 ## Ph.D. strudent
 
-## Master's students  
-  
+## Master's students    
 | <img src="../assets/images/member/bh.jpg" alt="Byeonghuun Kim" width="300">  | 
 | -------- |
 | **Byeonghun Kim** |
