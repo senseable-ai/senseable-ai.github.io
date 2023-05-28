@@ -8,12 +8,14 @@ layout: single
 # Ph.D. strudent
 
 # Masters students  
-| ![Image](/assets/member/bh.jpg) Byeonghun Kim | Header 2 |
+  
+| ![Image](/assets/member/bh.jpg) Byeonghun Kim |  |
 | -------- | -------- |
-| Research area: TBD   | Cell 2   | 
-| Contact: byeonghuns98@gmail.com   | Cell 5   | 
+| Research area: TBD   |   | 
+| Contact: byeonghuns98@gmail.com   |  | 
 
 # Interns  
+  
 | Hyunsik Min | Jubin Jin |
 | -------- | -------- |
 | Research area: TBD   | Research area: TBD    | 
