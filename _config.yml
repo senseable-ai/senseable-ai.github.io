@@ -279,6 +279,14 @@ compress_html:
 
 # Defaults
 defaults:
+  # default
+  - scope:
+      path: ""
+    values:
+      layout: home
+      author_profile: true
+      sidebar:
+        nav: side-bar
   # _posts
   - scope:
       path: ""
@@ -287,7 +295,7 @@ defaults:
       layout: single
       author_profile: true
       sidebar:
-        nav: "side-bar"
+        nav: side-bar
       read_time: true
       comments: # true
       share: true
