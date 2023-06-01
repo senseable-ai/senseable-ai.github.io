@@ -9,7 +9,7 @@ layout: single
 - Jiyoung Hwang, **Byeongjoon Noh**, Zhixiong Jin, and Hwasoo Yeo\*, "Asymmetric Long-Term Graph Multi-Attention Network for Traffic Speed Prediction." *The 25th IEEE International Conference on Intelligent Transportation Systems (ITSC)* [Download PDF](/assets/papers/int_conf/2022_itsc2.pdf)  
 
 - **Byeongjoon Noh**, Dongho Ka, David Lee, and Hwasoo Yeo\*, "Analysis of vehicle-pedestrian interactive behaviors near unsignalized crosswalk." *The 100th Transportation Research Board Annual Meeting, Virtual, 2021.* [Download PDF](/assets/papers/int_conf/2019_trb.pdf)  
-- 
+
 - **Byeongjoon Noh**, Wonjun Non, and David Lee\*, "Vision-based overhead front point recognition of vehicles for traffic safety analysis." *Proceedings of the 2018 ACM International Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers, ACM, Singapore, 2018.* [Download PDF](/assets/papers/int_conf/2018_acm.pdf)  
 
 - Wonjun No, **Byeongjoon Noh**, and David Lee\*, "A deep learning-based braille blocks detection system from street view images for the visually impaired." *31st KKHTCNN Symposium on Civil Engineering, Kyoto, 2018.*   
