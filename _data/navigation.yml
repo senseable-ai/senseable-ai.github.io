@@ -23,3 +23,5 @@ side-bar:
       url: "/publication/dom_jour/"
     - title: "Domestic conference"
       url: "/publication/dom_conf/"
+    - title: "Patent"
+      url: "/publication/patent"
