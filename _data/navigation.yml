@@ -7,10 +7,10 @@ side-bar:
   - title: "News"
     url: "/news/"
   - title: "Research"
-    url: "/research/urban-traffic-risk-cube/"
+    url: "/research/vision-traffic-safety/"
     children:
     - title: "Vision-based Pedestrian Safety"
-      url: "/research/ision-traffic-safety/"
+      url: "/research/vision-traffic-safety/"
     - title: "Multi-dimensional Analysis for Urban Traffic Risk"
       url: "/research/urban-traffic-risk-cube/"
   - title: "Member"
