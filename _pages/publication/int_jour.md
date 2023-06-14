@@ -3,8 +3,8 @@ title: International journal
 permalink: /publication/int_jour/
 layout: single
 ---
-
-- <span style="font-size: 15px; color:green;">[Under review]</span> Haechan Cho, Zhixiong Jin, Hwasoo Yeo, and **Byeongjoon Noh\***, “TSaferNet: Predicting risk severity of urban traffic accidents and identifying risk sources using mobilitydata and road geometry", *Accident Analysis and Prevention 165 (2022):106539*. <span style="color:red;">**Q0**, **IF=6.376**</span>
+<span style="font-size: 15px>
+- <span style="color:green;">[Under review]</span> Haechan Cho, Zhixiong Jin, Hwasoo Yeo, and **Byeongjoon Noh\***, “TSaferNet: Predicting risk severity of urban traffic accidents and identifying risk sources using mobilitydata and road geometry", *Accident Analysis and Prevention 165 (2022):106539*. <span style="color:red;">**Q0**, **IF=6.376**</span>
 
 - <span style="color:green;">[Under review]</span> **Byeongjoon Noh**, Wonjun No, Zhixiong Jin, and Hwasoo Yeo\*, “Is the policy to strengthen punishment in school zone effective?: Focusing on analyzing behaviors of driver and pedestrian before and after the law is applied,” *Transportation Research Part A: Policy and Practice* **Q1**, **IF=5.594**
 
@@ -31,3 +31,5 @@ layout: single
 - **Byeongjoon Noh**,  Juntae Son, Hansaem Park, and Seongju Chang\*, "In-depth analysis of energy efficiency related factors in commercial buildings using data cube and association rule mining." *Sustainability 9 (11), 2017*. IF=3.251 [Download PDF](/assets/papers/int_jour/2017_sustainability.pdf)
 
 - Jonguk Lee, **Byeongjoon Noh**,  Suin Jang, Daihee Park\*, and Yonghwa Chung, "Stress detection and classification of laying hens by sound analysis." *Asian-Australasian Journal of Animal Sciences 28 (4), 2015*. IF=2.509.  
+
+</span>  
