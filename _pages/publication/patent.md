@@ -5,6 +5,9 @@ layout: single
 ---
 
 # Patents
+- Device and method of analyzing images for telecommuting work security
+  - Application number: 10-2023-0075925 (Applied date: Jun 2023), KR
+  
 - Video Conferencing Device and Image Quality Verifying Method Thereof
   - Application number: 10-2023-0057246 (Applied date: May 2023), KR
 
