@@ -3,6 +3,11 @@ title: Patent and software copyright
 permalink: /publication/patent/
 layout: single
 ---
+<style>
+  .page-content {
+    font-size: 16px;
+  }
+</style>
 
 # Patents
 - 원격근무 보안을 위한 영상 분석 장치 및 방법 (Device and Method of Analyzing Images for Telecommuting Work Security)
