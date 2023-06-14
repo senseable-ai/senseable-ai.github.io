@@ -4,7 +4,7 @@ permalink: /publication/patent/
 layout: single
 ---
 
-<span style="font-size: 18px;"> # Patents </span>
+ # <span style="font-size: 18px;"> Patents </span>
 - <span style="font-size: 15px;"> 원격근무 보안을 위한 영상 분석 장치 및 방법 (Device and Method of Analyzing Images for Telecommuting Work Security) </span>  
   - <span style="font-size: 15px;"> Application number: 10-2023-0075925 (Applied date: Jun 2023), KR </span>  
   
@@ -32,8 +32,8 @@ layout: single
 - <span style="font-size: 15px;"> 대규모 데이터를 위한 서포트 벡터 머신 이진 트리 구조 갱신 장치 및 방법 (SVM-BTA Updating Apparatus and Method for Large Scale Dataset) </span>  
   - <span style="font-size: 15px;"> Application number: 10-1580202 (Applied: Dec 2015), KR </span>  
 
-
-<span style="font-size: 18px;"> # Software copyright </span>
+  
+# <span style="font-size: 18px;">Software copyright </span>
 - <span style="font-size: 15px;"> Method on Closed Pigs Segmentation and Adaptive Threshold
   - <span style="font-size: 15px;"> Application number: C-2015-024978  
 
