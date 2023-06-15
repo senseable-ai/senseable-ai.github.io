@@ -14,7 +14,7 @@ layout: single
 
 - <span style="font-size: 15px;">Donghwa Shon, **Byeongjoon Noh**, and Nahyang Byun\*, "Identifying and extracting method of exterior building information on 3D map." *Buildings 12(4), 2022*. **Q0**, IF=3.324 [Download PDF](/assets/papers/int_jour/2022_building.pdf)</span>  
 
-- <span style="font-size: 15px;">Hansaem Park, Dongyoon Park, **Byeongjoon Noh**, and Seongju Chang*, "Stacking deep transfer learning for short-term cross building energy prediction  with different seasonality and occupant schedule. " *Building and Environment 10.1016/j.buildenv.2022.109060*. <span style="color:red;">**Q0**, **IF=7.093**</span> [Download PDF](/assets/papers/int_jour/2022_buildenv.pdf)</span>  
+- <span style="font-size: 15px;">Hansaem Park, Dongyoon Park, **Byeongjoon Noh**, and Seongju Chang\*, "Stacking deep transfer learning for short-term cross building energy prediction  with different seasonality and occupant schedule. " *Building and Environment 10.1016/j.buildenv.2022.109060*. <span style="color:red;">**Q0**, **IF=7.093**</span> [Download PDF](/assets/papers/int_jour/2022_buildenv.pdf)</span>  
 
 - <span style="font-size: 15px;">**Byeongjoon Noh** and Hwasoo Yeo\*, "A novel method of predictive collision risk area estimation for proactive pedestrian accident prevention system in urban surveillance infrastructure." *Transportation Research Part C: Emerging Technologies 137 (2022):103570*. <span style="color:red;">**Q0**, **IF=9.022**</span> [Download PDF](/assets/papers/int_jour/2022_partc.pdf)</span>  
 
