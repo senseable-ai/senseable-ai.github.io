@@ -16,7 +16,7 @@ side-bar:
   - title: "Member"
     url: "/member/"
   - title: "Lab work"
-    url: "/labwork/studynote/"
+    url: "/labwork/"
     children:
       - title: "Study Note"
         url: "/labwork/studynote/"
