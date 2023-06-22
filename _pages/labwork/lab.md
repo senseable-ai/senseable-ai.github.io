@@ -4,8 +4,6 @@ permalink: /lab/
 layout: single
 ---
 
-# Study Note
-
 ## Table of Contents
 - [Category 1](#category-1)
 - [Category 2](#category-2)
