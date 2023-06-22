@@ -32,12 +32,12 @@ layout: single
 
 | <img src="../assets/images/member/no_img.png" alt="no_img" width="300"> | | <img src="../assets/images/member/no_img.png" alt="no_img" width="300">|
 | -------- | -------- | -------- |
-| Youngseo Cho | | Jaekyun Lim |
+|**Youngseo Cho**| |**Jaegyun Im** |
 | Research area: TBD  | | Research area: TBD    | 
 | Contact: pamdajr@gmail.com | | Contact: Imij0522@gmail.com | 
     
-| <img src="../assets/images/member/no_img.png" alt="no_img" width="300"> |
-| -------- |
-| Sunghoon Kim |
-| Research area: TBD   |
-| Contact: rlatjdgns0816@gmail.com |
+| <img src="../assets/images/member/no_img.png" alt="no_img" width="300"> | | <img src="../assets/images/member/no_img.png" alt="no_img" width="300">|
+| -------- | -------- | -------- |
+|**Sunghoon Kim**| |**Seokjun Hong** |
+| Research area: TBD  | | Research area: TBD    | 
+| Contact: rlatjdgns0816@gmail.com | | Contact: hongs2000813@gmail.com | 
