@@ -9,3 +9,6 @@ layout: single
 
 ## Category 2
 Content for Category 2 goes here.
+test
+test
+test
