@@ -1,6 +1,6 @@
 ---
-title: category 4
-permalink: /lab/
+title: StudyNote_Natural Language Processing
+permalink: /labwork/studynote/NLP
 layout: single
 ---
 

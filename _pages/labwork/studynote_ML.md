@@ -1,9 +1,9 @@
 ---
-title: category 3
-permalink: /lab/
+title: Machine Learning
+permalink: /labwork/studynote/ML
 layout: single
 ---
-- [   M/L  ](#category-3)
+- [Machine Learning](#Machine_Learning)
 
 ## Category 3
 Content for Category 3 goes here.

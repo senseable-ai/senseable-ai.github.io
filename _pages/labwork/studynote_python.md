@@ -1,6 +1,6 @@
 ---
-title: category 1
-permalink: /lab/
+title: Study Note_Python
+permalink: /labwork/studynote/python
 layout: single
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: category 2
-permalink: /lab/
+permalink: /labwork/studynote/DS
 layout: single
 ---
 

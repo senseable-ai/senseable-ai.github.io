@@ -1,11 +1,11 @@
 ---
-title: category 6
-permalink: /lab/
+title: Deep Learning
+permalink: /labwork/studynote/DL
 layout: single
 ---
 
-- [   D/L  ](#category-6)
+- [Deep Learning](#Deep_Learning)
 
 
-## D/L
+## Deep Learning
 Content for Category 6 goes here.
