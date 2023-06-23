@@ -27,9 +27,8 @@ side-bar:
         url: "/publication/dom_conf/"
       - title: "Patent"
         url: "/publication/patent"
-   - title: "Lab work"
+  - title: "Lab work"
     url: "/labwork/"
     children:
       - title: "Study Note"
         url: "/labwork/studynote/"
-        
