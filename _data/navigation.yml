@@ -15,11 +15,6 @@ side-bar:
         url: "/research/urban-traffic-risk-cube/"
   - title: "Member"
     url: "/member/"
-  - title: "Lab work"
-    url: "/labwork/"
-    children:
-      - title: "Study Note"
-        url: "/labwork/studynote/"
   - title: "Publication"
     children:
       - title: "International journal"
@@ -32,3 +27,8 @@ side-bar:
         url: "/publication/dom_conf/"
       - title: "Patent"
         url: "/publication/patent"
+   - title: "Lab work"
+    url: "/labwork/"
+    children:
+      - title: "Study Note"
+        url: "/labwork/studynote/" 
