@@ -1,6 +1,6 @@
 ---
 title: category 5
-permalink: /labwork/studynote/
+permalink: /labwork/studynote/Algo
 layout: single
 ---
 

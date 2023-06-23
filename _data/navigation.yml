@@ -32,3 +32,16 @@ side-bar:
     children:
       - title: "Study Note"
         url: "/labwork/studynote/"
+        children:
+        -title: "StudyNote_Python"
+        url: "/labwork/studynote/python"
+        -title: "StudyNote_Data_Science"
+        url: "/labwork/studynote/DS"
+        -title: "StudyNote_Machine_Learning"
+        url: "/labwork/studynote/ML"
+        -title: "StudyNote_DS"
+        url: "/labwork/studynote/DS"
+        -title: "StudyNote_Natural_Language_Processing"
+        url: "/labwork/studynote/NLP"
+        -title: "StudyNote_Algorithm"
+        url: "/labwork/studynote/Algo"
