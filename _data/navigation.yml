@@ -32,3 +32,4 @@ side-bar:
     children:
       - title: "Study Note"
         url: "/labwork/studynote/" 
+        
