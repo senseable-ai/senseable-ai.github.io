@@ -45,3 +45,8 @@ side-bar:
             url: "/labwork/studynote/NLP"
           - title: "StudyNote_Algorithm"
             url: "/labwork/studynote/Algo"
+            children:
+              - title: "Sub Child 1"
+                url: "/labwork/studynote/Algo/subchild1"
+              - title: "Sub Child 2"
+                url: "/labwork/studynote/Algo/subchild2"
