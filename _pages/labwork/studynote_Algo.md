@@ -1,5 +1,5 @@
 ---
-title: [Study note] Algorithm
+title: "[Study note] Algorithm"
 permalink: /labwork/studynote/Algo
 layout: single
 ---
