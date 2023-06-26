@@ -4,7 +4,7 @@ permalink: /labwork/studynote/python
 layout: single
 ---
 
-- [ Python ](#category-1)
+<!-- - [ Python ](#category-1)
 
 ## Category 1
-Content for Category 1 goes here.
+Content for Category 1 goes here. -->

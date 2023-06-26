@@ -3,7 +3,7 @@ title: Machine Learning
 permalink: /labwork/studynote/ML
 layout: single
 ---
-- [Machine Learning](#Machine_Learning)
+<!-- - [Machine Learning](#Machine_Learning)
 
 ## Category 3
-Content for Category 3 goes here.
+Content for Category 3 goes here. -->
