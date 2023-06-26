@@ -1,5 +1,5 @@
 ---
-title: Study Note_Python
+title: [Study note] Python programming
 permalink: /labwork/studynote/python
 layout: single
 ---
