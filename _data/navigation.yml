@@ -2,7 +2,7 @@
 main:
   - title: "About SAIL"
     url: "/about/"
-    
+
 side-bar:
   - title: "News"
     url: "/news/"
@@ -30,23 +30,15 @@ side-bar:
   - title: "Lab work"
     url: "/labwork/"
     children:
-      - title: "Study Note"
-        url: "/labwork/studynote/"
-        children:
-          - title: "StudyNote_Python"
-            url: "/labwork/studynote/python"
-          - title: "StudyNote_Data_Science"
-            url: "/labwork/studynote/DS"
-          - title: "StudyNote_Machine_Learning"
-            url: "/labwork/studynote/ML"
-          - title: "StudyNote_DS"
-            url: "/labwork/studynote/DS"
-          - title: "StudyNote_Natural_Language_Processing"
-            url: "/labwork/studynote/NLP"
-          - title: "StudyNote_Algorithm"
-            url: "/labwork/studynote/Algo"
-            children:
-              - title: "Sub Child 1"
-                url: "/labwork/studynote/Algo/subchild1"
-              - title: "Sub Child 2"
-                url: "/labwork/studynote/Algo/subchild2"
+      - title: "[Study note] Python programming"
+        url: "/labwork/studynote/python"
+      - title: "StudyNote_Data_Science"
+        url: "/labwork/studynote/DS"
+      - title: "[Study note] Machine Learning"
+        url: "/labwork/studynote/ML"
+      - title: "[Study note] Data structure"
+        url: "/labwork/studynote/DS"
+      - title: "[Study note] Natural Language Processing"
+        url: "/labwork/studynote/NLP"
+      - title: "[Study note] Algorithm"
+        url: "/labwork/studynote/Algo"
