@@ -1,5 +1,5 @@
 ---
-title: category 5
+title: [Study note] Algorithm
 permalink: /labwork/studynote/Algo
 layout: single
 ---
