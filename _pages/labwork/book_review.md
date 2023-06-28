@@ -1,5 +1,5 @@
 ---
-title: Book Review
+title: "Book Review"
 permalink: /labwork/bookreview
 layout: single
 ---

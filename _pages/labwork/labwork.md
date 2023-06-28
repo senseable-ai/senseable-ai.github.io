@@ -1,5 +1,5 @@
 ---
-title: LAB WORK
+title: "LAB WORK"
 permalink: /labwork/
 layout: single
 ---

@@ -1,5 +1,5 @@
 ---
-title: Study Note
+title: "Study Note"
 permalink: /labwork/studynote/
 layout: single
 ---
