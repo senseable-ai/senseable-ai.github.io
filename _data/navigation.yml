@@ -42,5 +42,5 @@ side-bar:
         url: "/labwork/studynote/NLP"
       - title: "[Study note] Algorithm"
         url: "/labwork/studynote/Algo"
-      - title: "[Study note] Book review"
+      - title: "[Study note][Book review] 기계학습"
         url: "/labwork/bookreview"
