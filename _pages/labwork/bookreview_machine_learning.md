@@ -4,8 +4,6 @@ layout: single
 ---
 
 
-# Book Review:『Machine Learning』, 오일석  
-
 ### Contents
 1. 소개  
     1. 기계 학습이란
