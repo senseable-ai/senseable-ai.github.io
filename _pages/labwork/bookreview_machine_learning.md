@@ -1,4 +1,5 @@
 ---
+title: ""
 permalink: /labwork/bookreview_machine_learning
 layout: single
 ---
