@@ -2,7 +2,7 @@
 permalink: /labwork/bookreview_machine_learning
 layout: single
 ---
-# Book Review:『Machine Learning』, 오일석  
+## Book Review:『Machine Learning』, 오일석  
 
 ### Contents
 1. 소개  
