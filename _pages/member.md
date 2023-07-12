@@ -30,7 +30,7 @@ layout: single
 | Research area: TBD  | | Research area: TBD    |
 | Contact: minun001@gmail.com | | Contact: jinjb0821@gmail.com   |  
 
-| <img src="../assets/images/member/no_img.png" alt="no_img" width="300"> | | <img src="../assets/images/member/no_img.png" alt="no_img" width="300">|
+| <img src="../assets/images/member/no_img.png" alt="no_img" width="300"> | | <img src="../assets/images/member/jg.jpg" alt="no_img" width="300">|
 | -------- | -------- | -------- |
 |**Youngseo Cho**| |**Jaegyun Im** |
 | Research area: TBD  | | Research area: TBD    | 
