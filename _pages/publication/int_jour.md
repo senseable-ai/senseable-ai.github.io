@@ -4,6 +4,8 @@ permalink: /publication/int_jour/
 layout: single
 ---
 
+- <span style="font-size: 15px;"><span style="color:green;">[Under review]</span> **Byeongjoon Noh**, Tengfeng Lin, Sungju Lee\*, and Taikyeong Jeong\* "Vehiclectron: Estimating road vehicle's cuboid using deep learning and road geometry information in mono-vision environment" *Sensors*, IF=3.847 </span>  
+
 - <span style="font-size: 15px;"><span style="color:green;">[Under review]</span> Wonjun No, **Byeongjoon Noh**, and Youngchul Kim\* "A novel approach for reliable pedestrian trajectory collection with behavior-based trajectory reconstruction for urban surveillance systems" *Applied Geography* **Q1**, IF=4.732 </span>
 
 - <span style="font-size: 15px;"><span style="color:green;">[Under review]</span> Haechan Cho, Zhixiong Jin, Hwasoo Yeo, and **Byeongjoon Noh\***, “TSaferNet: Predicting risk severity of urban traffic accidents and identifying risk sources using mobilitydata and road geometry", *Accident Analysis and Prevention 165 (2022):106539*. <span style="color:red;">**Q0**, **IF=6.376**</span></span>  
